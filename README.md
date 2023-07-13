@@ -1,4 +1,4 @@
-# Association_Studies_2023
+# Genetic Analysis of Population-based Association Studies
 
 ## Course overview
 
