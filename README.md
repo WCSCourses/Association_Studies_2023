@@ -21,7 +21,7 @@ Any reuse of the course materials, data or code is encouraged with due acknowled
 - [Gibran Hemani](https://www.bristol.ac.uk/people/person/Gibran-Hemani-7099528a-3d05-4917-a312-8ac3d8ec5e71/), University of Bristol, UK
 - [Andrew Morris](https://research.manchester.ac.uk/en/persons/andrew.morris-5), University of Manchester, UK
 - [Gisela Orozco](https://research.manchester.ac.uk/en/persons/gisela.orozco), University of Manchester, UK
-- [Lynsey Hall],(https://profiles.cardiff.ac.uk/staff/halll10), Cardiff University, UK
+- [Lynsey Hall](https://profiles.cardiff.ac.uk/staff/halll10), Cardiff University, UK
 
 ******
 ## License
